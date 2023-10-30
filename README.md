@@ -1,5 +1,9 @@
 Full Stack E-Commerce Project - Admin Dashboard: Next.js 13 App Router, React, Tailwind, Prisma
 
+## Deployed App
+
+https://rose-shop-admin.vercel.app/
+
 ## Features:
 
 - The dashboard serves as a CMS and provides API for front-end shop
