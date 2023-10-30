@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Full Stack E-Commerce Project - Admin Dashboard: Next.js 13 App Router, React, Tailwind, Prisma
+
+## Features:
+
+- The dashboard serves as a CMS and provides API for front-end shop
+- Users can securely log in (through Clerk)
+- Users can create, delete, and update various aspects of a typical store front, includes products, categories, colors, sizes, and images
+- Users can view all the activites of their store front, such as revenues, orders, sales (using Stripe)
+
+## Technologies: 
+
+- Clerk for authentication
+- Shadcn/UI for components
+- Stripe for checkout
+- PlanetScale to host and Prisma to manage MySQL
 
 ## Getting Started
 
